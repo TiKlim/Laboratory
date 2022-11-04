@@ -10,4 +10,4 @@
 5) Откройте скрипт "laboratory_file"
 6) Приятного времяприпровождения
 ## Контакты
-gleblin_1307@mail.ru
+klim.timofeev.04@mail.ru
